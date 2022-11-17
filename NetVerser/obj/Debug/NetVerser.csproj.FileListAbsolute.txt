@@ -1,0 +1,16 @@
+C:\PIS\NetVerser\NetVerser\bin\Debug\NetVerser.exe
+C:\PIS\NetVerser\NetVerser\bin\Debug\NetVerser.pdb
+C:\PIS\NetVerser\NetVerser\obj\Debug\ResolveAssemblyReference.cache
+C:\PIS\NetVerser\NetVerser\obj\Debug\winChat.baml
+C:\PIS\NetVerser\NetVerser\obj\Debug\winChat.g.cs
+C:\PIS\NetVerser\NetVerser\obj\Debug\App.g.cs
+C:\PIS\NetVerser\NetVerser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\PIS\NetVerser\NetVerser\obj\Debug\NetVerser_MarkupCompile.cache
+C:\PIS\NetVerser\NetVerser\obj\Debug\NetVerser_MarkupCompile.lref
+C:\PIS\NetVerser\NetVerser\obj\Debug\App.baml
+C:\PIS\NetVerser\NetVerser\obj\Debug\NetVerser.g.resources
+C:\PIS\NetVerser\NetVerser\obj\Debug\NetVerser.Properties.Resources.resources
+C:\PIS\NetVerser\NetVerser\obj\Debug\NetVerser.exe
+C:\PIS\NetVerser\NetVerser\obj\Debug\NetVerser.pdb
+C:\PIS\NetVerser\NetVerser\obj\Debug\GenerateResource.read.1.tlog
+C:\PIS\NetVerser\NetVerser\obj\Debug\GenerateResource.write.1.tlog

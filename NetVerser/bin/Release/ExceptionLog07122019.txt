@@ -1,0 +1,53 @@
+Message     : The requested name is valid, but no data of the requested type was found
+Source      : System
+StackTrace  :    at System.Net.Dns.GetAddrInfo(String name)
+   at System.Net.Dns.InternalGetHostByName(String hostName, Boolean includeIPv6)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress)
+   at System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, String hostname, Int32 port)
+   at NetVerser.winChat.SendMessage(String stringRecipient) in F:\Systems\NetVerser\NetVerser\winChat.xaml.cs:line 426
+Target Site : System.Net.IPHostEntry GetAddrInfo(System.String)
+Date & Time : 07/12/2019 9:25:33 AM
+Computer Name : DESKTOP-K1RSCCA
+
+
+------------------------------
+
+Message     : The requested name is valid, but no data of the requested type was found
+Source      : System
+StackTrace  :    at System.Net.Dns.GetAddrInfo(String name)
+   at System.Net.Dns.InternalGetHostByName(String hostName, Boolean includeIPv6)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress)
+   at System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, String hostname, Int32 port)
+   at NetVerser.winChat.SendMessage(String stringRecipient) in F:\Systems\NetVerser\NetVerser\winChat.xaml.cs:line 425
+Target Site : System.Net.IPHostEntry GetAddrInfo(System.String)
+Date & Time : 07/12/2019 9:38:00 AM
+Computer Name : DESKTOP-K1RSCCA
+
+
+------------------------------
+
+Message     : The requested name is valid, but no data of the requested type was found
+Source      : System
+StackTrace  :    at System.Net.Dns.GetAddrInfo(String name)
+   at System.Net.Dns.InternalGetHostByName(String hostName, Boolean includeIPv6)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress)
+   at System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, String hostname, Int32 port)
+   at NetVerser.winChat.SendMessage(String stringRecipient) in F:\Systems\NetVerser\NetVerser\winChat.xaml.cs:line 425
+Target Site : System.Net.IPHostEntry GetAddrInfo(System.String)
+Date & Time : 07/12/2019 9:38:35 AM
+Computer Name : DESKTOP-K1RSCCA
+
+
+------------------------------
+
+Message     : The requested name is valid, but no data of the requested type was found
+Source      : System
+StackTrace  :    at System.Net.Dns.GetAddrInfo(String name)
+   at System.Net.Dns.InternalGetHostByName(String hostName, Boolean includeIPv6)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress)
+   at System.Net.Sockets.UdpClient.Send(Byte[] dgram, Int32 bytes, String hostname, Int32 port)
+   at NetVerser.winChat.SendMessage(String stringRecipient) in F:\Systems\NetVerser\NetVerser\winChat.xaml.cs:line 425
+Target Site : System.Net.IPHostEntry GetAddrInfo(System.String)
+Date & Time : 07/12/2019 9:39:01 AM
+Computer Name : DESKTOP-K1RSCCA
+

@@ -1,0 +1,15 @@
+﻿<cc:WpfApplication x:Class="NetVerser.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"      
+    xmlns:cc="clr-namespace:NetVerser.Windows"   
+    IsSingleInstance="True"
+    StartupUri="winChat.xaml">
+    <cc:WpfApplication.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/NetVerser;component/Resources/NetVerserStyles.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </cc:WpfApplication.Resources>
+</cc:WpfApplication>
+    
